@@ -2,7 +2,7 @@
 
 ## Dashboard POC for a surgical services domain
 
-## sample datasets not real
+## sample datasets (dummy)
 ## created using streamlit, python
 ## libraries used: 
 ### streamlit, pandas, plotly, openpyxl
